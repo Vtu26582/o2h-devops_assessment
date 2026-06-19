@@ -1,0 +1,9 @@
+{
+  "name": "o2h-app",
+  "version": "1.0.0",
+  "description": "o2h DevOps Assessment",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
